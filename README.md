@@ -12,4 +12,4 @@ Resources for Embedded Systems
   - [Embedded systems - TechVedas .learn](https://www.youtube.com/playlist?list=PLcbIZiT62e1gNZ-VWPO3rpTpXkHBMZa2n)
   
 - Books
-  - [Introduction to Embedded Systems by Edward Ashford Lee & Sanjit Arunkumar Seshia](https://www.iitg.ac.in/pbhaduri/cs522-13/Introduction%20to%20Embedded%20Systems%20(ver%200.5,%20Aug%202010).pdf)
+  - Introduction to Embedded Systems by Edward Ashford Lee & Sanjit Arunkumar Seshia
